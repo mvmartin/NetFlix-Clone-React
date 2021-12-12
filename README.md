@@ -17,5 +17,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
     
     
 <h1 align="center">
-   <img src=https://github.com/mvmartin/ConsumoAPI-React/blob/main/Consumo%20API%20GITHUB.gif height="400px" /> 
+   <img src=https://github.com/mvmartin/NetFlix-Clone-React/blob/main/VID_20211212_165343.gif height="400px" /> 
   </h1>
